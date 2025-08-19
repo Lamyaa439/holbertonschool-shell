@@ -19,3 +19,7 @@ by using (ls -lan).
 Here we will Create a script that creates a directory named my_first_directory in the /tmp/ directory by using (mkdir) and  Absolute path to /tmp directory.
 # Betty in my first directory
 We create a new file in /tmp directory name: betty , then we move betty to /tmp/my_first_directory by using (mv).
+# Bye bye Betty
+Now we will delete Betty file in /my_first_directory by using (rm) following with the Absolute path /tmp/my_first_directory/betty.
+# my_first_directory
+And here we will Delete my_first_directory in /tmp by using (rm -r) follwing with the  Absolute path /tmp/my_first_director.
