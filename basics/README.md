@@ -9,3 +9,9 @@ Here we create a new file name: 2-bring-me-home, then we write a scribt to chang
 create a new file name: 3-listfiles to display current directory contents in a long format by using (ls -l).
 # Hidden files
 Now we want to display current directory contents plus the hidden files(starting with .). Use the long format (ls -la).
+# I love numbers
+now we want to Display current directory contents:
+Long format
+with user and group IDs displayed numerically
+And hidden files (starting with .)
+by using (ls -lan).
