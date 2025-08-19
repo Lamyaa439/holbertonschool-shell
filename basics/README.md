@@ -5,3 +5,5 @@ in this project we will try to prints the absolute path name of the basics direc
 now we create a new file 1-listit to Display the contents list of the basics directory by using the commend (ls).
 # There is no place like home
 Here we create a new file name: 2-bring-me-home, then we write a scribt to changes the working directory to the users home directory by using (cd).
+# The long format
+create a new file name: 3-listfiles to display current directory contents in a long format by using (ls -l).
