@@ -17,3 +17,5 @@ And hidden files (starting with .)
 by using (ls -lan).
 # Welcome
 Here we will Create a script that creates a directory named my_first_directory in the /tmp/ directory by using (mkdir) and  Absolute path to /tmp directory.
+# Betty in my first directory
+We create a new file in /tmp directory name: betty , then we move betty to /tmp/my_first_directory by using (mv).
