@@ -7,3 +7,5 @@ now we create a new file 1-listit to Display the contents list of the basics dir
 Here we create a new file name: 2-bring-me-home, then we write a scribt to changes the working directory to the users home directory by using (cd).
 # The long format
 create a new file name: 3-listfiles to display current directory contents in a long format by using (ls -l).
+# Hidden files
+Now we want to display current directory contents plus the hidden files(starting with .). Use the long format (ls -la).
