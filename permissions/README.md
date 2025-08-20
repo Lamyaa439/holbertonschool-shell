@@ -1,2 +1,4 @@
 # first script: My name is Betty
-Here we will Create a script that switches the current user to the user betty by using (su )
+Here we will Create a script that switches the current user to the user betty by using (su).
+# 1-who_am_i
+Here we will Write a script that prints the effective username of the current user by using the command (whoami).
