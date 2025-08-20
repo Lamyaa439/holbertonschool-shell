@@ -23,3 +23,5 @@ We create a new file in /tmp directory name: betty , then we move betty to /tmp/
 Now we will delete Betty file in /my_first_directory by using (rm) following with the Absolute path /tmp/my_first_directory/betty.
 # my_first_directory
 And here we will Delete my_first_directory in /tmp by using (rm -r) follwing with the  Absolute path /tmp/my_first_director.
+# Back to the future
+Here we will Write a script that changes the working directory to the previous one by using (cd ..)
