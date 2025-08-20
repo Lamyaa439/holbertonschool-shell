@@ -25,3 +25,8 @@ Now we will delete Betty file in /my_first_directory by using (rm) following wit
 And here we will Delete my_first_directory in /tmp by using (rm -r) follwing with the  Absolute path /tmp/my_first_director.
 # Back to the future
 Here we will Write a script that changes the working directory to the previous one by using (cd ..)
+# Lists
+Now we will Write a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format by using (ls) and (-la).
+#  File type
+here we will Write a script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run the script.
+we will using (file file-name ) commend to print the thype of the file.
