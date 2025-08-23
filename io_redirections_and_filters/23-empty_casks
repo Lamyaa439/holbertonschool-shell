@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a | find . -type f,d -empty -exec ls -a {} +
+ls -a | find . -type f,d -empty -printf "%p\n" -exec ls -a {} + 
